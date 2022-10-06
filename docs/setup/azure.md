@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Microsoft Azure Setup
 parent: Initial Setup
 nav_order: 1
 ---
