@@ -1,0 +1,8 @@
+---
+layout: default
+title: Initial Setup
+nav_order: 1
+has_children: true
+---
+
+This page is the landing page for the setup
