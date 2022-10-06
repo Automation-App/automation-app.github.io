@@ -30,10 +30,9 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 plugins:
-  - just-the-docs
   - jekyll-feed
 
 logo: "/assets/images/logo.webp"
